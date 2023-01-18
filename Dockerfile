@@ -15,4 +15,4 @@ RUN apk update && apk add git
 WORKDIR /trakt
 COPY . .
 
-RUN pip install requests simplejson
+RUN pip install -r requirements.txt

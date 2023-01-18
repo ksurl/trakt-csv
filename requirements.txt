@@ -1,0 +1,6 @@
+jq
+pyopenssl
+python-dateutil
+requests
+simplejson
+
